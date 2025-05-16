@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 ![DaVinciResolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
