@@ -16,6 +16,7 @@ Here are some ideas to get you started:
   <div align="center">
     <h1>Daniyal Arshaq Sudrajat</h1>
   </div>
+  <h3 align="center">2nd Year || SE Student</h3><br>
 
 ### About Me 🔍
 - 💻 Aspiring **Software Engineer**
