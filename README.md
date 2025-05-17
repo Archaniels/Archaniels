@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 💻 Aspiring **Software Engineer**
 - 📚 Currently 2nd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
 - 🤖 Planning to be more active on **GitHub** and **LeetCode** from now on!
+- 🔭 I’m currently working on my own **Portfolio website**!
+- 🌱 I’m currently learning the basics of **mobile development**!
 - 📫 Reach me: arshaqdaniyal@gmail.com (Personal) | daniyalars@student.telkomuniversity.ac.id (School)
 
 ---
