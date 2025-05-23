@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### About Me 🔍
 - 💻 Aspiring **Software Engineer**
 - 📚 Currently 2nd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
+- 🎨 Loves UI/UX and design in general!
 - 🤖 Planning to be more active on **GitHub** and **LeetCode** from now on!
 - 🔭 I’m currently working on my own **Portfolio website**!
 - 🌱 I’m currently learning the basics of **mobile development**!
