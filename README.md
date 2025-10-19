@@ -16,11 +16,11 @@ Here are some ideas to get you started:
   <div align="center">
     <h1>Daniyal Arshaq Sudrajat</h1>
   </div>
-  <h3 align="center">2nd Year || SE Student</h3><br>
+  <h3 align="center">3rd Year || SE Student</h3><br>
 
 ### About Me 🔍
 - 💻 Aspiring **Software Engineer**
-- 📚 Currently 2nd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
+- 📚 Currently 3rd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
 - 🎨 Loves UI/UX and design in general!
 - 🤖 Planning to be more active on **GitHub** and **LeetCode** from now on!
 - 🔭 I’m currently working on my own **Portfolio website**!
@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-
-## Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+
+## Learning
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ## Others
