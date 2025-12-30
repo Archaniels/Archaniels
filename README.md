@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archaniels&show_icons=true&theme=midnight-purple)](https://github.com/Archaniels/github-readme-stats)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qp160b12s58zpkrngih7hvyg0&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
