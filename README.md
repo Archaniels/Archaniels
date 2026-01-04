@@ -19,12 +19,10 @@ Here are some ideas to get you started:
   <h3 align="center">3rd Year || SE Student</h3><br>
 
 ### About Me 🔍
-- 💻 Aspiring **Software Engineer**
+- 💻 Aspiring **Front-End Web Developer** and **UI Designer**
 - 📚 Currently 3rd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
-- 🎨 Loves UI/UX and design in general!
-- 🤖 Planning to be more active on **GitHub** and **LeetCode** from now on!
+- 🎨 Loves UI/UX and graphic design in general!
 - 🔭 I’m currently working on my own **Portfolio website**!
-- 🌱 I’m currently learning the basics of **mobile development**!
 - 📫 Reach me: arshaqdaniyal@gmail.com (Personal) | daniyalars@student.telkomuniversity.ac.id (School)
 
 ---
