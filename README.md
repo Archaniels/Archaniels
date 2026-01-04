@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 📚 Currently 3rd year studying **Software Engineering** at [Telkom University Bandung](https://telkomuniversity.ac.id/)
 - 🎨 Loves UI/UX and graphic design in general!
 - 🔭 I’m currently working on my own **Portfolio website**!
+- 📜 Check out my portfolio [here](https://portfolio-archaniels-projects.vercel.app/)
 - 📫 Reach me: arshaqdaniyal@gmail.com (Personal) | daniyalars@student.telkomuniversity.ac.id (School)
 
 ---
